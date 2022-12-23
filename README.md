@@ -1,4 +1,4 @@
-# ProjetoFinal - Grupo02 - 913
+# Projeto Final - Grupo 02 - 913
 
 ### Equipe:
 
